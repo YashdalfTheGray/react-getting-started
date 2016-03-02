@@ -1,0 +1,15 @@
+{
+  "name": "react-getting-started",
+  "description": "Getting started with React.js",
+  "main": "index.html",
+  "authors": [
+    "YashdalfTheGray <yash.kulshrestha@gmail.com>"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/YashdalfTheGray/react-getting-started",
+  "moduleType": [],
+  "private": true,
+  "dependencies": {
+    "react": "~0.14.7"
+  }
+}
