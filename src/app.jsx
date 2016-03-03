@@ -12,7 +12,7 @@ var Button = React.createClass({
 var Result = React.createClass({
     render: function() {
         return (
-            <div>{this.props.counterValue}</div>
+            <div>Button click count = {this.props.counterValue}</div>
         );
     }
 });
