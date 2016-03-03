@@ -86,6 +86,9 @@ var Main = React.createClass({
                     <Result counterValue={this.state.counter} />
                 </div>
                 <hr />
+                <h2>Play Nine</h2>
+                <PlayNineGame />
+                <hr />
                 <h2>Github Cards</h2>
                 <GithubUserForm addCard = {this.addCard} />
                 <p></p>
